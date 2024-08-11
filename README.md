@@ -4,7 +4,7 @@ The Stock News Alert project is a Python script that monitors stock price change
 It fetches stock data, compares closing prices between two dates, and sends WhatsApp notifications with relevant news if the price change 
 exceeds a certain threshold.
 
-<img src="https://github.com/user-attachments/assets/9bd6f943-f907-4e91-a90a-655506fa8f11" alt="description" width="400" />
+<img src="https://github.com/user-attachments/assets/9bd6f943-f907-4e91-a90a-655506fa8f11" alt="description" width="300" />
 
 
 
