@@ -40,7 +40,7 @@ exceeds a certain threshold.
     Create a `.env` file in the root directory and add the following lines with your respective API keys and tokens:
 
     ```
-    NEWS_API_KEY =y our_news_api_key
+    NEWS_API_KEY = your_news_api_key
     TWILIO_SID = your_twilio_sid
     TWILIO_AUTH_TOKEN = your_twilio_auth_token
     PHONE_NUMBER = your_phone_number
